@@ -18,7 +18,7 @@
 <script>
 
 
-    import SpinalBadgeIconButton from "../Button/SpinalBadgeIconButton";
+    import {SpinalBadgeIconButton} from "spinal-vue-components-buttons";
 
     export default {
         name: "ToolsBar",
